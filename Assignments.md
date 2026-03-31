@@ -28,9 +28,9 @@
 > - Kindly submit the GitHub Pages (Documentation) URL ( https://sudharsan2006.github.io/PSNOVA_AI/ )
 
 # 4 Linkedin Post
-> Submit the LinkedIn post URL
+> Submit the LinkedIn post URL ( https://www.linkedin.com/posts/sudharsan-r-v-298549292_modernsoftwaredevelopment-professionalgrowth-ugcPost-7444731784535273473-KwBd?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEbqXlQBHX01tO-FFOhbpVQ-mwsJCEonajE )
 > 
-> [LinkedIn post URL]
+> 
 
 # 5 GitHub Profile README
 > Kindly submit your GitHub Profile README URL ( github.com/Sudharsan2006  )
