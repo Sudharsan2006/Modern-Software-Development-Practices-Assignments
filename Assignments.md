@@ -1,46 +1,36 @@
 # Assignment Submissions
 
 # 1 Certification Requirement
-> - AI Fluency for Students
+> - AI Fluency for Students ( https://verify.skilljar.com/c/wh2wx8iyjhb3 )
 >
 > Kindly submit the verification link here 
-> - Introduction to Agent Skills
+> - Introduction to Agent Skills ( https://verify.skilljar.com/c/n2m3ojaqxz7v )
 >
 > Kindly submit the verification link here
-> 
-> Kindly upload the certifications PDF in Google Drive Link
+
 
 # 2 Individual Project: Personal Portfolio
 > Personal Portfolio Project
 >
-> - Kindly submit the GitHub Repo URL
+> - Kindly submit the GitHub Repo URL ( https://github.com/Sudharsan2006/AIML_ONE_CREDIT )
 >
-> - Kindly submit the Vercel Deployment URL
+> - Kindly submit the Vercel Deployment URL ( https://www.sudharsanrv.dev/ )
 >
-> - Kindly submit the GitHub Pages (Documentation) URL
+> - Kindly submit the GitHub Pages (Documentation) URL ( https://sudharsan2006.github.io/AIML_ONE_CREDIT/ )
 
 # 3 Team Project: AI Full Stack Application
 > Team Project: AI Full Stack Application
 >
-> - Kindly submit the GitHub Repo URL
+> - Kindly submit the GitHub Repo URL( https://github.com/Sudharsan2006/PSNOVA_AI )
 >
-> - Kindly submit the Live Application URL (Domain)
+> - Kindly submit the Live Application URL ( https://psnovaai.sudharsanrv.dev/ )
 >
-> - Kindly submit the GitHub Pages (Documentation) URL
+> - Kindly submit the GitHub Pages (Documentation) URL ( https://sudharsan2006.github.io/PSNOVA_AI/ )
 
 # 4 Linkedin Post
 > Submit the LinkedIn post URL
 > 
 > [LinkedIn post URL]
 
-## For Second Year Buddies
-
-# 5 Certification Requirement
-> - Introduction to Model Context Protocol
->
-> Kindly submit the verification link here 
-> 
-> Kindly upload the certifications PDF in Google Drive Link
-
-# 6 GitHub Profile README
-> Kindly submit your GitHub Profile README URL
+# 5 GitHub Profile README
+> Kindly submit your GitHub Profile README URL ( github.com/Sudharsan2006  )
